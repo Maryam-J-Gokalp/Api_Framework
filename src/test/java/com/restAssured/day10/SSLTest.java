@@ -7,7 +7,6 @@ import static org.hamcrest.MatcherAssert.assertThat;
 
 public class SSLTest {
 
-
     @Test
     public void test1(){
             given().

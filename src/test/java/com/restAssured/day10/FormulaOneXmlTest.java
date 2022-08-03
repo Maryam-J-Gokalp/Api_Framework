@@ -10,6 +10,7 @@ import static org.hamcrest.MatcherAssert.assertThat;
 
 public class FormulaOneXmlTest {
 
+
     @BeforeAll
     public static void setUp(){
         //http://ergast.com/api/f1/drivers/alonso

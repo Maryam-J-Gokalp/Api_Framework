@@ -9,6 +9,7 @@ import static org.hamcrest.MatcherAssert.assertThat;
 public class SpartanSpecTestOriginal extends SpartanNewBase {
 
 
+
     //all tests in this class will use admin credentials
     //all test in this class will expect json result from response
 

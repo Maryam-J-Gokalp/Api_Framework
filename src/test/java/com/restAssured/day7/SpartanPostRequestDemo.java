@@ -22,6 +22,7 @@ public class SpartanPostRequestDemo extends SpartanTestBase {
       "gender":"Male",
       "name":"Severus",
       "phone":8877445596
+
    }
     When user sends POST request to '/api/spartans'
     Then status code 201

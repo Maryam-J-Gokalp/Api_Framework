@@ -13,6 +13,7 @@ import lombok.ToString;
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class Employee {
 
+
     @JsonProperty("first_name")
     private String firstName;
     @JsonProperty("last_name")

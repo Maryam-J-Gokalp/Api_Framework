@@ -12,7 +12,6 @@ import static io.restassured.RestAssured.*;
 import static org.hamcrest.MatcherAssert.assertThat;
 
 public class JsonSchemaValidationTest extends SpartanAuthTestBase {
-
     @DisplayName("GET request to verify one spartan against to schema")
     @Test
     public void schemaValidation(){

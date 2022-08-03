@@ -15,6 +15,7 @@ import static org.hamcrest.Matchers.*;
 
 public class SpartanAPIvsDB extends SpartanTestBase {
 
+
     @DisplayName("GET one spartan from api and database")
     @Test
     public void testDB1(){

@@ -119,7 +119,6 @@ public class BookitTestBase {
         return "Bearer " + accessToken;
 
 
-
     }
 
 }

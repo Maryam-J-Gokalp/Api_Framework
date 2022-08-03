@@ -66,5 +66,4 @@ public class SpartanWithXML extends SpartanAuthTestBase {
 
     }
 
-
 }

@@ -12,7 +12,6 @@ import static org.hamcrest.MatcherAssert.assertThat;
 
 public class BookitParametrized {
 
-
         public static List<Map<String,String>> getExcelData(){
 
             ExcelUtil bookitFile = new ExcelUtil("src/test/resources/BookItQa3.xlsx","QA3");

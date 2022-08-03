@@ -53,6 +53,7 @@ public class PutAndPatchRequestDemo extends SpartanTestBase {
         //with requestBody that we send
 
 
+
     }
 
     @DisplayName("DELETE one spartan")

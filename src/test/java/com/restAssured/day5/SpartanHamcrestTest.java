@@ -17,6 +17,7 @@ public class SpartanHamcrestTest extends SpartanTestBase {
     @Test
     public void test1(){
 
+
         //along with this statement, I want to save names inside the List<String>
 
          List<String> names = given().accept(ContentType.JSON)

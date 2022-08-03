@@ -16,6 +16,7 @@ import static org.hamcrest.MatcherAssert.assertThat;
 
 public class SpartanPojoGetRequestTest extends SpartanTestBase {
 
+
     @DisplayName("GET one spartan and convert it to Spartan Object")
     @Test
     public void oneSpartanPojo(){

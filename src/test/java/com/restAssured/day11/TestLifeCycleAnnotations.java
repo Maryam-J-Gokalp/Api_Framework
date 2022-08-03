@@ -4,6 +4,7 @@ import org.junit.jupiter.api.*;
 
 public class TestLifeCycleAnnotations {
 
+
     //beforeClass is testNg version of beforeAll, same logic
     @BeforeAll
     public static void init(){

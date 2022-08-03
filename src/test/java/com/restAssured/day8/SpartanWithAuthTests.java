@@ -19,6 +19,7 @@ public class SpartanWithAuthTests extends SpartanAuthTestBase {
                     .then().statusCode(401)
                     .log().all();
 
+
     }
 
     @DisplayName("GET /api/spartans as admin user expect 200")

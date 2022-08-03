@@ -14,6 +14,7 @@ public class Search {
                 '}';
     }
 
+
     public List<Spartan> getContent() {
         return content;
     }

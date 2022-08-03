@@ -20,4 +20,5 @@ public class Region {
     @JsonProperty("links")
     private List<Link> links;
 
+
 }

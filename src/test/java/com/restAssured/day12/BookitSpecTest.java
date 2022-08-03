@@ -7,6 +7,7 @@ import static org.hamcrest.MatcherAssert.assertThat;
 
 public class BookitSpecTest extends BookitTestBase {
 
+
     @Test
     public void test1(){
         //send a get request to /api/users/me endpoint as a teacher

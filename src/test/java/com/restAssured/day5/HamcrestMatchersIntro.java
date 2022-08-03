@@ -73,6 +73,7 @@ public class HamcrestMatchersIntro {
 
         List<Integer> listOfNumbers = Arrays.asList(1,4,5,6,32,54,66,77,45,23);
 
+
         //check size of the list
         assertThat(listOfNumbers,hasSize(10));
         //check if this list hasItem 77
